@@ -7,6 +7,7 @@ The tool will export each sheet to a csv file. You can also pass sheets names th
 Its deployed as fat Jar file.
 
 It can convert Excel files effeciently and enhance the conversion by avoiding common conversion issues such as numbers representation as exponential number and also if data column contains ',' character.
+The tool also remove empty rows from Excel sheets.
 
 This tool and its source code is availbe for free and commertial applications usage.
 
