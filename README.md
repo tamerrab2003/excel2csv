@@ -14,5 +14,7 @@ This tool and its source code is availbe for free and commertial applications us
 Usage examples:
 
 Ex1: java -jar excel2csv.jar sample.xlsx /home
+
 Ex2: java -jar excel2csv.jar sample.xls C:\home sheet1,sheet2,sheet3
+
 Ex3: java -jar excel2csv.jar sample.xlsx /home sheet1,sheet2,sheet3 AA,BB,CC
